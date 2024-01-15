@@ -1,10 +1,17 @@
-im3_data_products
+IM3 Data Products
 ==================
 
-A reference repository to monitor previous and emerging IM3 data products
+This is a reference repository to monitor stable and emerging IM3 data products.
+View associated IM3 publications here:  https://im3.pnnl.gov/publications
 
-Data products
--------------
+Climate
+~~~~~~~
+
+
+Energy Systems
+~~~~~~~~~~~~~~
+
+
 
 Hydrology
 ~~~~~~~~~
@@ -18,40 +25,22 @@ Land Use and Land Cover Change
     :widths: 25, 50, 50
     :header-rows: 1
 
-    * - Header 1
-      - Header 2
-      - Header 3
-    * - Row 1, Col 1
-      - Row 1, Col 2
-      - Row 1, Col 3
-    * - Row 2, Col 1
-      - Row 2, Col 2
-      - Row 2, Col 3
+    * - Name
+      - Short Description
+      - Status
+      - Date Produced
+      - Version
+      - Link
+      - Experiment Group Page
+    * - Demeter
+      - Downscaled GCAM-USA regional land allocation data to 0.125 degrees to 78 PFTs used by CLM. Includes dynamic urban land assumptions from the SELECT model.
+      - Near final
+      - v0.0.0-alpha
+      - 2023 Nov. 15 
+      - deception:/qfs/people/nara836/im3_demeter_clm/demeter_78_PFT_output
+      - https://github.com/IMMM-SFA/exp_group_a
+
 
 Population
 ~~~~~~~~~~
-.. table::
-   :widths: auto
-
-   +------------+------------+------------+
-   | Header 1   | Header 2   | Header 3   |
-   +============+============+============+
-   | Row 1 Col 1| Row 1 Col 2| Row 1 Col 3|
-   +------------+------------+------------+
-   | Row 2 Col 1| Row 2 Col 2| Row 2 Col 3|
-   +------------+------------+------------+
-   | Row 3 Col 1| Row 3 Col 2| Row 3 Col 3|
-   +------------+------------+------------+
-   | Row 4 Col 1| Row 4 Col 2| Row 4 Col 3|
-   +------------+------------+------------+
-
-
-Urbanization
-~~~~~~~~~~~~
-
-Climate
-~~~~~~~
-
-Energy
-~~~~~~
 
