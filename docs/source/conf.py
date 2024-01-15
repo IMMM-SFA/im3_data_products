@@ -17,7 +17,7 @@
 
 # -- Project information -----------------------------------------------------
 
-project = 'im3_data_products'
+project = 'IM3 Data Products'
 copyright = '2024, IM3 DSC'
 author = 'IM3 DSC'
 

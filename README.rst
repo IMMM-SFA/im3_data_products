@@ -22,7 +22,7 @@ Land Use and Land Cover Change
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 .. list-table::
-    :widths: 25, 50, 50
+    :widths: 25, 50, 20, 20, 20, 25, 35
     :header-rows: 1
 
     * - Name
