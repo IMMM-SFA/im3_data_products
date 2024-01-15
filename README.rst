@@ -12,7 +12,7 @@ Hydrology
 Land Use and Land Cover Change
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-.. list-table: lulcc
+.. list-table:: lulcc
     :widths: 25, 50, 50
     :header-rows: 1
 
