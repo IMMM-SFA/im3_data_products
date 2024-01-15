@@ -34,7 +34,7 @@ Land Use and Land Cover Change
 
 Demeter-SELECT-CLM5 Downscaled LULC
 ------------------------------------
-    * **Short Description**:  Downscaled GCAM-USA regional land allocation data to 0.125 degrees to 78 PFTs used by CLM. Includes dynamic urban land assumptions from the SELECT model. These data are generated per IM3 TGW climate scenario and GCAM-USA scenario.
+    * **Short Description**:  Downscaled GCAM-USA sub-regional land allocation data to 0.125 degrees to 78 PFTs used by CLM. Includes dynamic urban land assumptions from the SELECT model. These data are generated per IM3 TGW climate scenario and GCAM-USA scenario. Also includes wood harvest data (roundwood harvested) at a pixel level and fertilization application data at a pixel level. Projections available for 8 alternative scenarios which are combinations of socio-economic scenarios (SSPs), climate forcings (RCPs) and climate simulations.
     * **Status**:  Near final
     * **Version**:  v0.0.0-alpha
     * **Date Produced**:  2023 Nov. 15
