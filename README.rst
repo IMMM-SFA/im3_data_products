@@ -16,6 +16,15 @@ Energy Systems
 Hydrology
 ~~~~~~~~~
 
+CLM5 Behavioral Ensemble Hydrological Parameter Sets
+----------------------------------------------------
+    * **Short Description**:  CLM5 hydrological parameter sets derived using the hybrid regionalization method for three distinct streamflow signatures.
+    * **Status**:  Final
+    * **Version**:  v1.0.0
+    * **Date Produced**:  2023 Jan. 03
+    * **Link**:  https://doi.org/10.57931/2274938
+    * **Experiment Group Page**:  https://github.com/IMMM-SFA/exp_group_b
+
 
 
 Land Use and Land Cover Change
